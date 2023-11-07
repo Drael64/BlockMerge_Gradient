@@ -1,6 +1,6 @@
-model_path1: "I:\\HF\\Storage\\mythologic-L2-13b\\"
-model_path2: "I:\\HF\\Storage\\The-Face-Of-Goonery_Huginn-13b-FP16\\"
-output_model_path: "I:\\HF\\Storage\\mythomix-L2-13b\\"
+model_path1: "A:\Experiment\BlockMerge_Gradient\Instruct\"
+model_path2: "A:\Experiment\BlockMerge_Gradient\Prose\"
+output_model_path: "A:\Experiment\BlockMerge_Gradient\Trion\"
 operations:
   - operation: self_attn_filter
     filter: "self_attn"
